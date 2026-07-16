@@ -5,7 +5,7 @@
 A simple Bash script to display Linux system information.
 
 # Bash System Information
-دو زبانه
+
 ---
 
 ## English
