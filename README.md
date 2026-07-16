@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Linux-orange)
 # bash-system-info
 A simple Bash script to display Linux system information.
-
+![System Information Output](images/Screenshot.png)
 # Bash System Information
 
 ---
